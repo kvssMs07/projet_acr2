@@ -1,0 +1,54 @@
+{
+    "todos":[
+        {
+            "Id": 1,
+            "Nom": "TORTUE",
+            "Description": "La tortue est très importante dans la culture Polynésienne et représente force et protection. Elle est également considérée comme une divinité capable de se déplacer librement entre la terre et l’océan, considéré comme l’au delà, et faciliterait donc le passage des âmes vers leur lieu de repos.",
+            "Image": [
+                "https://i.pinimg.com/564x/ab/2e/de/ab2ede5f40bf982fe3c645b18f709f9b.jpg",
+                "http://blog.comptoir-pareo.fr/wp-content/uploads/2016/12/turtle1-227x300.jpg"
+            ],
+            "Categorie": "Homme"
+          },
+          {
+              "Id": 2,
+              "Nom": "CROIX MARQUISE",
+              "Description": "Ce symbole est plutôt populaire et très largement utilisé dans les tatouages Polynésiens. Cette croix marquise représente l’équilibre entre les éléments et l’harmonie.",
+              "Image": [
+                  "http://blog.comptoir-pareo.fr/wp-content/uploads/2016/12/croix-272x300.jpg",
+                  "http://blog.comptoir-pareo.fr/wp-content/uploads/2016/12/marquese-142x300.png"
+              ],
+              "Categorie": "Homme"
+          },
+          {
+              "Id": 3,
+              "Nom": "SOLEIL",
+              "Description": "Dans les tatouages Polynésiens le soleil va souvent avec d’autres symboles pour exprimer différentes significations. Beaucoup de tatouages Polynésiens aux formes arrondies incluent la signification du soleil qui est souvent pour la richesse, grande intelligence et montre que vous êtes un meneur.",
+              "Image": [
+                  "http://blog.comptoir-pareo.fr/wp-content/uploads/2016/12/sun-300x300.jpg",
+                  "http://blog.comptoir-pareo.fr/wp-content/uploads/2016/12/sun2-300x291.jpg"
+              ],
+              "Categorie": "Femme"
+          },
+          {
+              "Id": 4,
+              "Nom": "OCÉAN",
+              "Description": "Le symbole de l’océan est très commun dans les tatouages Polynésiens. Il n’est pas seulement utilisé pour ses significations mais aussi pour remplir les vides des tatouages afin de compléter certains motifs. Les Polynésiens voient l’océan comme étant la destination finale o ù ils iront une fois morts. Donc parfois l’océan représente la mort ou le monde de l’au delà. En plus de cela l’océan est considéré comme étant une source pour se nourrir et peut ainsi représenter la vie, fertilité ou persistance. Les vagues océaniques sont aussi utilisées pour symboliser l’au delà qui est un monde ou tous les ancêtres vivent et où les Polynésiens les rejoindront un jour.",
+              "Image": [
+                  "http://blog.comptoir-pareo.fr/wp-content/uploads/2016/12/ocean-300x287.jpg",
+                  "http://blog.comptoir-pareo.fr/wp-content/uploads/2016/12/oceany-240x300.jpg"
+              ],
+              "Categorie": "Femme"
+          },
+          {
+              "Id": 5,
+              "Nom": "LÉZARD/GECKO",
+              "Description": "Les lézards et geckos sont perçus comme étant l’apparition des dieux et sont très importants selon les croyances Polynésiennes. Parce qu’ils représentent les dieux et aussi les ancêtres ils ont une ressemblance similaire à « enata » le symbole de l’homme. Les lézards et geckos sont des créatures qui peuvent parler aux dieux et voir le monde « caché » et amènent la fortune à ceux qui les portent en tatouages.",
+              "Image": [
+                  "http://blog.comptoir-pareo.fr/wp-content/uploads/2016/12/lezard-300x279.jpg",
+                  "http://blog.comptoir-pareo.fr/wp-content/uploads/2016/12/Lizard-Symbol-Embedded-in-a-Hammerhead-Shark-Tattoo-300x300.jpg"
+              ],
+              "Categorie": "Homme"
+          }
+    ]
+}

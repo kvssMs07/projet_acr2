@@ -1,0 +1,15 @@
+<div class="cards" >
+    <div class="titre">
+        {{ Nom }}
+    </div>
+    <div class="info">
+        <p><strong>Nom : </strong>{{ Nom }}</p>
+        <p><strong>Description : </strong>{{ Description }}</p>
+        <img *ngFor="let elt of Image" src={{elt}} alt="tattoo" width="200" height="250"/>
+        <p><strong>Categorie : </strong>{{ Categorie }}</p>
+    </div>
+    <div>
+        <button type="button" class="btn btn-link" (click)="editTodo(Id)">Edit</button>
+        <button type="button" class="btn btn-link" (click)="deleteTodo(Id)">Delete</button>
+    </div>
+</div>

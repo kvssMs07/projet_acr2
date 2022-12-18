@@ -1,0 +1,19 @@
+<!-- <section class="conteneur">
+    <app-rows *ngFor="let elt of Tableau"
+        [Id]="elt.Id"
+        [Nom]="elt.Nom"
+        [Description]="elt.Description"
+        [Image]="elt.Image"
+        [Categorie]="elt.Categorie">
+    </app-rows>
+</section> -->
+<section class="conteneur">
+    <app-rows *ngFor="let elt of todoList"
+        [Id]="elt.Id"
+        [Nom]="elt.Nom"
+        [Description]="elt.Description"
+        [Image]="elt.Image"
+        [Categorie]="elt.Categorie">
+    </app-rows>
+</section>
+<button type="button" class="btn btn-success" (click)="createProjet()">Créer</button>
